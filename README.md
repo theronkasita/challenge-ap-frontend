@@ -56,7 +56,8 @@ You may use any of the following libraries or tools:
 
 - Bring and use your own laptop and internet connection
 - Work must be completed independently, on-site
-- No external help, prebuilt dashboards, or copied templates allowed
+- No external help
+- You may use AI Assistants such as ChatGPT
 
 ---
 
